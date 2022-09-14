@@ -8,7 +8,7 @@
 <br>
 
 * Name----------------- Mubasher Ahmad          
-* Date of Birth ------ 20-02-1989
+* Age -------------------34
 * Birth Place  --------- Pakistan
 * Favorite Food ----- Asian Food
 * Hobbies---------------Cooking, Video Games, Hiking, Bike Raiding 
