@@ -2,9 +2,9 @@
 
 ## **Tiffany Skare**
 
-Name: Tiffany Skare
-Age: 35 (but really 21)
-Birthday: 25/12/1986
-Birthplace: Utah, US
-Favorite Food: Steak
-Hobbies: Singing and Gaming
+Name: *Tiffany Skare* <hr>
+Age: *35 (but really 21)* <hr>
+Birthday: *25/12/1986* <hr>
+Birthplace: *Utah, US* <hr>
+Favorite Food: *Steak* <hr>
+Hobbies: *Singing and Gaming* <hr>
